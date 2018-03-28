@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504801044 source:f:\road_to_ecpc\matrixsummation\main.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<iostream>
+	<algorithm>
+

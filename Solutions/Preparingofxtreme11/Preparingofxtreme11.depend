@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1507977537 source:f:\road_to_ecpc\preparingofxtreme11\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<numeric>
+	<string.h>
+	<string>
+	<vector>
+	<sstream>
+	<set>
+	<cmath>
+	<stack>
+	<queue>
+	<map>
+	<stdio.h>
+

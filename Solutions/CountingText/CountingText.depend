@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513949861 source:f:\road_to_ecpc\countingtext\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

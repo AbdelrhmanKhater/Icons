@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1511604910 source:f:\road_to_ecpc\diststring\main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<queue>
+	<deque>
+	<stack>
+	<bitset>
+	<algorithm>
+	<functional>
+	<string.h>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<vector>
+

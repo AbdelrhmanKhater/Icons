@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1505951917 source:f:\road_to_ecpc\mahmoudandehab\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<numeric>
+	<string.h>
+	<string>
+	<vector>
+	<set>
+	<cmath>
+	<stack>
+	<queue>
+	<stdio.h>
+

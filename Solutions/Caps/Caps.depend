@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511432603 source:f:\road_to_ecpc\caps\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+	<string>
+

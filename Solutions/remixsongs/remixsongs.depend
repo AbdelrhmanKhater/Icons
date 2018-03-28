@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512110084 source:f:\road_to_ecpc\remixsongs\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+	<string>
+	<map>
+	<vector>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1504573480 source:f:\road_to_ecpc\maximumsum\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<numeric>
+	<string.h>
+	<string>
+	<vector>
+	<set>
+	<cmath>
+	<stack>
+	<queue>
+

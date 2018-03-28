@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504319492 source:f:\coursera\algorithmic toolbox\assignments\week2\cumulativesumquery\main.cpp
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<string.h>
+

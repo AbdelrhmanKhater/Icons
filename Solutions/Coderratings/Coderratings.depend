@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503734315 source:f:\road_to_ecpc\coderratings\main.cpp
+	<stdio.h>
+	<algorithm>
+	<string.h>
+	<cstdlib>
+

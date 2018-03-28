@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503495655 source:f:\road_to_ecpc\greatcommondivisor\main.cpp
+	<stdio.h>
+	<algorithm>
+

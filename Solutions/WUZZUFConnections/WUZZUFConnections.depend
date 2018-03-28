@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1507662836 source:f:\road_to_ecpc\wuzzufconnections\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<numeric>
+	<string.h>
+	<string>
+	<vector>
+	<set>
+	<cmath>
+	<stack>
+	<queue>
+	<stdio.h>
+

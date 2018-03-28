@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503080039 source:f:\road_to_ecpc\dquery\main.cpp
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<string.h>
+

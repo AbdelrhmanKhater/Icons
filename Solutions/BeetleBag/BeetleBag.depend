@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1508023528 source:f:\road_to_ecpc\beetlebag\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<numeric>
+	<string.h>
+	<string>
+	<vector>
+	<sstream>
+	<set>
+	<cmath>
+	<stack>
+	<queue>
+	<stdio.h>
+

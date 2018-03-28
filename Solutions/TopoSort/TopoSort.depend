@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513372617 source:f:\road_to_ecpc\toposort\main.cpp
+	<bits/stdc++.h>
+
+1513368263 source:f:\road_to_ecpc\toposort\test.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+

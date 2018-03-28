@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1504405075 source:f:\road_to_ecpc\thegreatball\main.cpp
+	<algorithm>
+	<cstdlib>
+	<numeric>
+	<string.h>
+	<string>
+	<vector>
+	<set>
+	<cmath>
+	<stack>
+	<queue>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

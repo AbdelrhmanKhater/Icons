@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1503359661 source:f:\road_to_ecpc\fibonacci\main.cpp
+	<stdio.h>
+	<cmath>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+

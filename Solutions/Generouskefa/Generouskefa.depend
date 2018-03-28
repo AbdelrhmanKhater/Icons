@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503073108 source:f:\road_to_ecpc\generouskefa\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
